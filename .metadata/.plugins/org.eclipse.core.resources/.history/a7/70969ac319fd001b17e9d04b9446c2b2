@@ -1,0 +1,14 @@
+package com.simplilearn.demos;
+
+public class TypeCasting {
+
+	public static void main(String[] args) {
+		//implicit Conversion
+		System.out.println("Implicite Type Casting");
+		char a='a';
+		System.out.println("value of a "+a);
+		int b=a;
+		System.out.println("value of b "+b);
+		
+	}
+}

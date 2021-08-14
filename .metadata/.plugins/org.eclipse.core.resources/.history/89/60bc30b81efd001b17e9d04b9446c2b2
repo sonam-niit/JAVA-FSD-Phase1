@@ -1,0 +1,10 @@
+package com.simplilearn.accessspecifier;
+
+import com.simplilearn.demos.PrivateDemo;
+
+public class Child extends PrivateDemo{
+
+	public static void main(String[] args) {
+		System.out.println(y);
+	}
+}

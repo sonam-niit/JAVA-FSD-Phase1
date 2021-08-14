@@ -1,0 +1,16 @@
+package com.simplilearn.demos;
+
+public class TypeCasting {
+
+	public static void main(String[] args) {
+		//implicit Conversion
+		System.out.println("Implicite Type Casting");
+		char a='a';
+		System.out.println("value of a "+(a-32));
+		int b=a;
+		System.out.println("value of b "+b);
+		float c=b;
+		System.out.println("value of b "+b);
+		
+	}
+}

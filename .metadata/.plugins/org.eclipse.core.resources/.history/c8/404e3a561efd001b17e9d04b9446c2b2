@@ -1,0 +1,5 @@
+package com.simplilearn.accessspecifier;
+
+public class Child {
+
+}
